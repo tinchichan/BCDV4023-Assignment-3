@@ -1,3 +1,3 @@
-npm install
-npx hardhat compile
+npm install/
+npx hardhat compile/
 npm start
